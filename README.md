@@ -130,6 +130,11 @@
 
 ## 레이아웃 및 기능
 
-![레이아웃 사진1](./_image/layout1.jpg)
-![레이아웃 사진2](./_image/layout2.jpg)
-![레이아웃 사진3](./_image/layout3.jpg)
+<h3>레이아웃 사진</h3>
+
+![레이아웃 사진1](./_image/layout1.JPG)
+![레이아웃 사진2](./_image/layout2.JPG)
+![레이아웃 사진3](./_image/layout3.JPG)
+
+<h3>실행영상</h3>
+
