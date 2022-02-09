@@ -140,4 +140,4 @@
 
 ![실행영상](./_image/AppVideo.gif)
 
-<h3><a href="./_report/">보고서 보기</a></h3>
+<h3><a href="./_reports/Androidreport">보고서 보기</a></h3>
