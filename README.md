@@ -139,3 +139,5 @@
 <h3>실행영상</h3>
 
 ![실행영상](./_image/AppVideo.gif)
+
+<h3><a href="./_report/">보고서 보기</a></h3>
