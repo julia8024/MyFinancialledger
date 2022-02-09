@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/menu_home">
+
+    <fragment
+        android:id="@+id/menu_home"
+        android:label="@string/menu_home"
+        android:name="com.example.myfinancialledger.MainFragment.MainFragment"
+        tools:layout="@layout/fragment_main" />
+
+    <fragment
+        android:id="@+id/menu_goal"
+        android:label="@string/menu_goal"
+        android:name="com.example.myfinancialledger.GoalFragment.GoalFragment"
+        tools:layout="@layout/fragment_goal" />
+
+    <fragment
+        android:id="@+id/menu_genre"
+        android:label="@string/menu_genre"
+        android:name="com.example.myfinancialledger.GenreFragment.GenreFragment"
+        tools:layout="@layout/fragment_genre" />
+
+    <fragment
+        android:id="@+id/menu_bank"
+        android:label="@string/menu_bank"
+        android:name="com.example.myfinancialledger.BankFragment.BankFragment"
+        tools:layout="@layout/fragment_bank" />
+
+    <fragment
+        android:id="@+id/menu_chart"
+        android:label=""
+        android:name="com.example.myfinancialledger.ChartFragment.Chart_Genre"
+        tools:layout="@layout/fragment_chart_genre"/>
+
+</navigation>
