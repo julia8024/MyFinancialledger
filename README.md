@@ -138,4 +138,4 @@
 
 <h3>실행영상</h3>
 
-![실행영상](./_image/App.gif)
+![실행영상](./_image/AppVideo.gif)
