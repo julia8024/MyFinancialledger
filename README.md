@@ -14,7 +14,12 @@
   </tr>
   <tr>
     <td>나의 역할</td>
-    <td colspan = 3>입출금 내역 기록 기능의 화면 레이아웃과 데이터베이스로의 데이터 전송 및 불러오기</td>
+    <td colspan = 3>햄버거 메뉴 기능 구현<br>
+      &nbsp&nbsp&nbsp 1. 홈화면으로 바로가기 기능<br>
+      &nbsp&nbsp&nbsp 2. 목표 금액 설정<br>
+      &nbsp&nbsp&nbsp 3. 지출 유형 설정<br>
+      &nbsp&nbsp&nbsp 4. 은행 설정<br>
+      </td>
   </tr>
   <tr rowspan = 3>
     <td>목적</td>
